@@ -5,4 +5,5 @@ Czech IT student.
 
 Also a person, possibly. 
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelDobCZ23)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=paveldobcz23&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=paveldobcz23&layout=compact&theme=dark)
