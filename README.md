@@ -3,6 +3,6 @@ Minecraft creator - [IceCraft Studio](https://icecraft.studio/).
 
 Czech IT student. 
 
-Also a person I think. 
+Also a person, possibly. 
 
 ![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelDobCZ23)
